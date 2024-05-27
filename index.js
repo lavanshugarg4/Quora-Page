@@ -16,18 +16,18 @@ app.use(methodOverride("_method"));
 let posts = [
   {
     id: uuidv4(),
-    username: "apnacollege",
-    content: "I love coding",
+    username: "Narendra",
+    content: "Name narendra",
   },
   {
     id: uuidv4(),
     username: "Lavanshu",
-    content: "Hard work to get sucess",
+    content: "Name lavanshu",
   },
   {
     id: uuidv4(),
-    username: "Manish",
-    content: "patience is key of sucess",
+    username: "Mohan",
+    content: "Name mohan",
   },
 ];
 
